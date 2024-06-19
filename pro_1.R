@@ -6,3 +6,4 @@ gross.income <-data["gross.income"]
 rating <- data["Rating"]
 product_line <-data["Product.line"]
 barplot(data$Rating,data$gross.income)
+#use lm function for linear model
